@@ -1,0 +1,31 @@
+{
+    "schema": 1,
+    "type": "calc_config",
+    "app": "passportphoto",
+    "version": 4,
+    "generated_at": "2026-11-22T13:03:34+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "update_url_android": "https://play.google.com/store/apps/details?id=passport.size.photo.editor",
+        "update_url_ios": "",
+        "maintenance": true,
+        "maintenance_en": "We are improving the app. Back in a few minutes.",
+        "notice_enabled": false,
+        "notice_key": "test1",
+        "notice_en": "Panel test: notices work.",
+        "notice_url": "",
+        "promo_enabled": false,
+        "promo_key": "",
+        "promo_title_en": "",
+        "promo_body_en": "",
+        "promo_button_en": "",
+        "promo_url": "",
+        "ads_enabled": true,
+        "ads_banner": true,
+        "ads_native": true,
+        "ads_interstitial": true,
+        "ads_interstitial_gap_sec": 180,
+        "ads_app_open": true
+    }
+}
