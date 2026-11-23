@@ -1,8 +1,8 @@
 {
-    "version": 6,
-    "sha256": "35525c77031f24681e57f7a6042f513c15bde3088928dd6f23f5247e782e0238",
-    "signature": "ed25519:aPcobwI+hDUSw+sYoj81avAFAd0XoWy5HEjPXnq3UrsMqGcomEc6EqWvaz95Ac2u+VYEHSBYCbXuObVzsfbuCg==",
-    "bytes": 892,
-    "published_at": "2026-11-23T05:59:34+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/passportphoto-app-data@796615b/passportphoto/v6.json"
+    "version": 7,
+    "sha256": "951cd46376387e3d3a0c760beca3df64672b6a8b46a188b598f02ad4edbc9281",
+    "signature": "ed25519:QKGxhZHta81YwkR/Ci5+UAyq00YmRVDoumdDn/IBmG/kawG333F0pIaekrepL15ddvxI/YDbrMq+fSLBkBhPBw==",
+    "bytes": 891,
+    "published_at": "2026-11-23T06:24:51+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/passportphoto-app-data@273710b/passportphoto/v7.json"
 }
